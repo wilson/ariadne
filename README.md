@@ -105,12 +105,10 @@ pub fn main() void {
 
 * **Primer (Start Here)**
     * Chevyrev, I. & Kormilitzin, A. (2016). *A Primer on the Signature Method in Machine Learning.*
-        * [arXiv:1603.03788](https://arxiv.org/abs/1603.03788/)
-
+    * [arXiv:1603.03788](https://arxiv.org/abs/1603.03788/)
 * **Theory (Rigor)**
     * Lyons, T. (1998). *Differential equations driven by rough signals.*
-        * [DOI: 10.4171/RMI/240](https://doi.org/10.4171/RMI/240/)
-
+    * [DOI: 10.4171/RMI/240](https://doi.org/10.4171/RMI/240/)
 * **Modern Approaches**
     * Kidger, P. & Lyons, T. (2020). *Signatory: differentiable computations of the signature and logsignature transforms, on both CPU and GPU.*
-        * [arXiv:2001.00706](https://arxiv.org/abs/2001.00706/)
+    * [arXiv:2001.00706](https://arxiv.org/abs/2001.00706/)
